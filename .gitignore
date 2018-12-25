@@ -128,4 +128,4 @@ Temporary Items
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
+config.xml
