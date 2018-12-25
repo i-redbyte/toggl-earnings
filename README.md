@@ -9,3 +9,6 @@
 &lt/Config&gt <br/>
   </p>
 
+Компиляция go build te.go
+
+Вызов справки ./te --help
