@@ -3,7 +3,7 @@
 Для корректной работы необходимо в корнивую директорию поместить файл config.xml вида:
 
 <code>
-<Config>
-    <TogglToken>Ваш токен (можно посмотреть в профиле пользователя)</TogglToken>
-</Config>
+&ltConfig&gt
+  &ltTogglToken&gtВаш токен (можно посмотреть в профиле пользователя)&lt/TogglToken&gt
+&lt/Config&gt
 </code>
