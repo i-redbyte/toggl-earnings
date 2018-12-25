@@ -42,7 +42,6 @@ func init() {
 	timeNow := time.Now()
 	timeDayAgo := timeNow.AddDate(0, -1, 0)
 
-	//timeNow.String()
 	app.Flags = []cli.Flag{
 		cli.StringFlag{
 			Name:  "start, st",
