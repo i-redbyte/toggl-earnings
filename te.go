@@ -40,7 +40,7 @@ func init() {
 	app.Copyright = "[CopyLeft]"
 
 	timeNow := time.Now()
-	timeDayAgo := timeNow.AddDate(0, 0, -1)
+	timeDayAgo := timeNow.AddDate(0, -1, 0)
 
 	//timeNow.String()
 	app.Flags = []cli.Flag{
