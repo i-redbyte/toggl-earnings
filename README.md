@@ -11,4 +11,4 @@
 
 Компиляция go build te.go
 
-Вызов справки ./te --help
+Вызов справки ./te --help для Linux/Mac или te.exe --help для Windows
