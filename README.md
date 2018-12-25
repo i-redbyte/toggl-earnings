@@ -4,9 +4,6 @@
 
 <code>
 &ltConfig&gt 
-  
   &ltTogglToken&gtВаш токен (можно посмотреть в профиле пользователя)&lt/TogglToken&gt 
-  
 &lt/Config&gt
-
 </code>
